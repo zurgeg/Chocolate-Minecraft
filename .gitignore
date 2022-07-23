@@ -1,0 +1,6 @@
+# pack builds, you can find this on the github page
+*.mrpack
+# packwiz installer jars, no need to have them here
+packwiz-installer*
+# mod jars, they take up space in the repo
+mods/*.jar
