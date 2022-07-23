@@ -1,0 +1,13 @@
+name = " Gimme bundles!"
+filename = "gimme-bundles-fabric-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rul3O8v7/versions/1.0.6/gimme-bundles-fabric-1.0.6.jar"
+hash-format = "sha1"
+hash = "b5ffbe438a7a8740fda60d53d4f6baa98add27e6"
+
+[update]
+[update.modrinth]
+mod-id = "Rul3O8v7"
+version = "e3IkB2SM"
