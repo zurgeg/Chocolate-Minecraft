@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "b8ddd7829f6c82a5c76bea79efb09b9457cb2f7ab5132da6c0736cf0bfde306b"
+
+[[files]]
+file = "README.md"
+hash = "5bdabd0817eebbc03fc59ffa01e5a01e4e12ca1f50fe626cff49393644db0e7c"
+
+[[files]]
+file = "mods/Adorn-3.6.1+1.19-fabric.jar"
+hash = "9022ef4a20ac1f79ca6596cecec450a8c62eb131088a2b5b86a8849098e5a531"
+
+[[files]]
+file = "mods/Patchouli-1.19-74-FABRIC.jar"
+hash = "c8964f4e1c6167383e15b7f07006139191ce6c53f733058caf4ecfdbfd16d192"
+
+[[files]]
+file = "mods/WildFireFly-1.2-release.jar"
+hash = "784b876d0816556a1df4e125289bc3337c4ba3d2e454aaa095cbacf640288453"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
@@ -16,9 +36,21 @@ hash = "05de3172607aa8d4bf582b092a5d7ea74056670825027a3828b8c14730771a78"
 metafile = true
 
 [[files]]
+file = "mods/architectury-5.10.32-fabric.jar"
+hash = "d9f759ea016ebccd16346e73d07e1e1770173a95a799254c481cdb013635d80b"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "f1ee36b330c4058ee5f0732d3b85e2622d58c3e422f5bd525d1b1472f365c221"
 metafile = true
+
+[[files]]
+file = "mods/capsey-archeology-0.1.9-1.19.jar"
+hash = "2b5e900ce05f2ff4da2eb31cdba4afab0587429090baa6463c5dd3339d2e1131"
+
+[[files]]
+file = "mods/cloth-config-7.0.73-fabric.jar"
+hash = "cd43e5c8c6165ce6f4d66448a421a852fbd1d20d8cd56ce086d6a6315c25649b"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -26,14 +58,26 @@ hash = "53fa3438ef9e1e81193f46c36cffa7c410a933de0b6793224e99bad67cbab2e3"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api-0.58.0+1.19.jar"
+hash = "0a3d2dba1ed45b002483ae7c08e2c0bcfcb8d2b166801a6c29d8ea64dba64370"
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "0164a54948e8c8b4220f1b3f8a41a1c450050fe19e04256ed96e36f58db019d3"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin-1.8.2+kotlin.1.7.10.jar"
+hash = "0e013ff6ade753a66799ef74a3953c1e76059973260a3507b44a3dab07016864"
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-1.4-BETA+1.19.jar"
+hash = "e7201659c3b4c921a9e4510044ffdbbd174deb078c2da4f10069052e8813e320"
 
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
@@ -46,9 +90,21 @@ hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore-5.0.0-fabric.jar"
+hash = "c30ec2f2ff95ee1a3ef9087db2bca4ffb8316ecb61b14a8bfb7d905e87fe535d"
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "8643f8b33b624aa289193c93e639f71b36434a60281d6be24e744f5f9c97cadd"
 metafile = true
+
+[[files]]
+file = "mods/friendsandfoes-fabric-mc1.19-1.5.5.jar"
+hash = "0a6993aa89c15c916c767904973c15a87a9130895d557ecf15753262429b71f4"
+
+[[files]]
+file = "mods/gimme-bundles-fabric-1.0.6.jar"
+hash = "656061ed47be7ff7f2c7b689dfd0d265ee5c2e7ae3025c5f73aa1ef3e5456468"
 
 [[files]]
 file = "mods/gimme-bundles.pw.toml"
@@ -56,9 +112,17 @@ hash = "c67fb0242b8ea5153a552c9895539b1c1a98259f05917d9919c42395d837117e"
 metafile = true
 
 [[files]]
+file = "mods/indium-1.0.6+mc1.19.jar"
+hash = "f526aece032f53ba5b7a8ba5de44d806e6be5cea8ca6114e4e2f96de845dbee3"
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
 metafile = true
+
+[[files]]
+file = "mods/iris-mc1.19-1.2.5.jar"
+hash = "da9cef0f6c697be6ede5edd31681d1caf771e3ac9e88d96cfe89573e440da6de"
 
 [[files]]
 file = "mods/iris.pw.toml"
@@ -66,9 +130,17 @@ hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
 metafile = true
 
 [[files]]
+file = "mods/krypton-0.2.0.jar"
+hash = "2d57301028f354cc5fde3ff710613e6b20c10041ccdbbb7a45182cf116562ab4"
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
 metafile = true
+
+[[files]]
+file = "mods/lithium-fabric-mc1.19-0.8.1.jar"
+hash = "34b0a253b1960f7d3b0dcf903adc5de615b98f986e91550f7e4691d3ac425216"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -76,9 +148,17 @@ hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
 metafile = true
 
 [[files]]
+file = "mods/mythicmetals-0.15.1.jar"
+hash = "6050ea505c39a0bef39e86fda3c0f7ba34af24980bb0460da71d24cd2a212cb5"
+
+[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "311108c7e97b3a252f14c6d2c0ff3cddd8fcf865f22a5201c918939a08a111e7"
 metafile = true
+
+[[files]]
+file = "mods/owo-lib-0.7.3+1.19.jar"
+hash = "f94092a1fbec7450ebfac847023a9360292806a5fac5a1cf636449e77af4c701"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
@@ -91,9 +171,17 @@ hash = "ea59340e930874c307b1dd1d17dd068dc5598e1f1a01055de1f5cb433780a1ee"
 metafile = true
 
 [[files]]
+file = "mods/phosphor-fabric-mc1.19.x-0.8.1.jar"
+hash = "2d1b8ebd216d5c04356c0bca53899b93d3d602bb1ab611451b0b0f971ac1f1db"
+
+[[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
+
+[[files]]
+file = "mods/purpeille-3.0.0+fabric-1.19-hotfix.jar"
+hash = "fbcea391b2c99610ff60a9b0739ecd677cf6c69149acec493d30c5e88d7524f6"
 
 [[files]]
 file = "mods/purpeille.pw.toml"
@@ -106,9 +194,21 @@ hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
 metafile = true
 
 [[files]]
+file = "mods/reeses_sodium_options-1.4.4+mc1.19-build.47.jar"
+hash = "5f09557b4f304b91413996e19546ae429eae329cc90c67f506ed70b331be6d0a"
+
+[[files]]
+file = "mods/sodium-extra-0.4.5+mc1.19-build.43.jar"
+hash = "1b8e1d343b894baf1e68e76f5d4e2de91db4401e4bc802e545fc4c1a1f3921f5"
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8bdc3c1b5079b7fbe89f995d1a100e1df8dcf47e73ef089abf444ecc8e320527"
 metafile = true
+
+[[files]]
+file = "mods/sodium-fabric-mc1.19-0.4.2+build.16.jar"
+hash = "3bd5e4fc759b8a311dc088502eaeabc49676e4c0b10d380975635c46c71f037d"
 
 [[files]]
 file = "mods/sodium.pw.toml"
@@ -119,3 +219,19 @@ metafile = true
 file = "mods/wildfirefly.pw.toml"
 hash = "de27954b8b8856b5f7ac6fab645a0bebe3236bb725ace6775e61f9c8e61e6bc1"
 metafile = true
+
+[[files]]
+file = "mods/wraith-alloy-forgery-2.0.15+1.19.jar"
+hash = "93602f97375f0e8b11381693b80ead2b3c148b62bf40ea2474c0bf208deb4cb0"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "ca1e3760a20fa99c0952c84b054cb19a4faa48650ab578fe32647205c8abc5b5"
+
+[[files]]
+file = "packwiz.json"
+hash = "3fea0c7288c4368b2b773c89ad917e41e1bf40d01e634e9f345d1e0bf40c868d"
