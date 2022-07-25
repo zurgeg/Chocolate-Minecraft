@@ -8,7 +8,7 @@ A Minecraft Modpack that adds new and cut functionality while still making the g
 - [Gimme bundles!](https://modrinth.com/mod/gimme-bundles): Adds bundles back to the game.
 - [Mythic Metals](https://modrinth.com/mod/mythicmetals): Adds new ores
 - [Purpeile](https://modrinth.com/mod/purpeille): Adds a rare postgame ore, found only in the End.
-- [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations): Adds various cool light-emitting particles, including frogs!
+- [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations): Adds various cool light-emitting particles, including fireflies!
 ## Mods List (APIs and non-noticeable mods):
 - [Architectury](https://modrinth.com/mod/architectury-api)
 - [Cloth Config](https://modrinth.com/mod/cloth-config)
