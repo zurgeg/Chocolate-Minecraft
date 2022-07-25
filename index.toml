@@ -14,6 +14,11 @@ hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
 
 [[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "ace96529b99493efde4213b5a0ca53460ce18e4aa56379f93cab4e580a101e87"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "a0bc671af92066c2164fb51d7e69cea6580851a12bb1bbb5ebfa461127ae91df"
 metafile = true
