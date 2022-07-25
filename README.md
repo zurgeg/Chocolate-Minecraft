@@ -8,8 +8,8 @@ A Minecraft Modpack that adds new and cut functionality while still making the g
 - [Gimme bundles!](https://modrinth.com/mod/gimme-bundles): Adds bundles back to the game.
 - [Mythic Metals](https://modrinth.com/mod/mythicmetals): Adds new ores
 - [Purpeile](https://modrinth.com/mod/purpeille): Adds a rare postgame ore, found only in the End.
-- [Wild Firefly](https://modrinth.com/mod/wildfirefly): Adds fireflies (that aren't eaten by frogs!)
-## Mods List (APIs and client side mods):
+- [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations): Adds various cool light-emitting particles, including frogs!
+## Mods List (APIs and non-noticeable mods):
 - [Architectury](https://modrinth.com/mod/architectury-api)
 - [Cloth Config](https://modrinth.com/mod/cloth-config)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core): Memory Optimization
@@ -25,3 +25,5 @@ A Minecraft Modpack that adds new and cut functionality while still making the g
 - [Sodium](https://modrinth.com/mod/sodium): Renderer optimization
 ## Contact
 Is your mod in here, and you don't like it? Or, is your mod **not** in here, and you want it in here? Feel free to open an issue and let me know!
+
+Icon is taken from [WikiMedia Commons](https://commons.wikimedia.org/wiki/File:Chocolate02.jpg)
