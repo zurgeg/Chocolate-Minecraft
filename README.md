@@ -8,8 +8,8 @@ A Minecraft Modpack that adds new and cut functionality while still making the g
 - [Gimme bundles!](https://modrinth.com/mod/gimme-bundles): Adds bundles back to the game.
 - [Mythic Metals](https://modrinth.com/mod/mythicmetals): Adds new ores
 - [Purpeile](https://modrinth.com/mod/purpeille): Adds a rare postgame ore, found only in the End.
-- [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations): Adds various cool light-emitting particles, including fireflies!
-## Mods List (APIs and non-noticeable mods):
+- [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations): Adds various cool particles, including fireflies!
+## Mods List (non-gameplay affecting mdos):
 - [Architectury](https://modrinth.com/mod/architectury-api)
 - [Cloth Config](https://modrinth.com/mod/cloth-config)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core): Memory Optimization
@@ -23,6 +23,8 @@ A Minecraft Modpack that adds new and cut functionality while still making the g
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options): Better Sodium Options Menu
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra): Extra Sodium Features
 - [Sodium](https://modrinth.com/mod/sodium): Renderer optimization
+- [Mod Menu](https://modrinth.com/mod/modmenu): A menu for your mods
+
 ## Contact
 Is your mod in here, and you don't like it? Or, is your mod **not** in here, and you want it in here? Feel free to open an issue and let me know!
 
