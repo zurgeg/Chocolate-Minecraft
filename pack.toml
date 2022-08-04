@@ -1,12 +1,12 @@
 name = "Chocolate Minecraft"
 author = "zurgeg"
-version = "3.0.1"
+version = "4.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "538ff31183d8d622aee78b7d675dcb3872a1681b1b60d3708d6597968f0e2c54"
+hash = "5c534a9963ebe6b343157cc5a1b7d0c9e1d2a34a3d32ef43ae042c78967c51d9"
 
 [versions]
 fabric = "0.14.8"

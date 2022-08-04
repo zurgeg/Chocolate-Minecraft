@@ -15,7 +15,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-netherite.pw.toml"
-hash = "ace96529b99493efde4213b5a0ca53460ce18e4aa56379f93cab4e580a101e87"
+hash = "9eed7f3a9b64f3684d1527867761e0fd41de02c2795ef56db4c47571ece1bbd6"
 metafile = true
 
 [[files]]
@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "53fa3438ef9e1e81193f46c36cffa7c410a933de0b6793224e99bad67cbab2e3"
+hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
 metafile = true
 
 [[files]]
@@ -69,18 +69,13 @@ hash = "c67fb0242b8ea5153a552c9895539b1c1a98259f05917d9919c42395d837117e"
 metafile = true
 
 [[files]]
-file = "mods/illuminations.pw.toml"
-hash = "3f6da5e369effa47f662723c3b8c8bc1b6756c03c7dc10dbc3ab6fb49ed17beb"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
-hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
 metafile = true
 
 [[files]]
@@ -119,8 +114,13 @@ hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
 
 [[files]]
+file = "mods/promenade.pw.toml"
+hash = "083eae895c5e331da837214c468ee42347228b9989e1261aa258d705b1d01d9d"
+metafile = true
+
+[[files]]
 file = "mods/purpeille.pw.toml"
-hash = "c519aeda42ea86c925c58f0e39a7410d29db080321f2cdf542de926caa089cf8"
+hash = "21d65a3503e8f92ebecafd5165eb56afa8da3612b1df45c587954636942673ae"
 metafile = true
 
 [[files]]
@@ -136,6 +136,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "3c8e4b1db1fc289b70e2b95d57ddf42f2a5306c4a114435c8e0a6f98d32cc37a"
+metafile = true
+
+[[files]]
+file = "mods/wildfirefly.pw.toml"
+hash = "de27954b8b8856b5f7ac6fab645a0bebe3236bb725ace6775e61f9c8e61e6bc1"
 metafile = true
 
 [[files]]

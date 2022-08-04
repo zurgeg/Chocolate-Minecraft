@@ -7,12 +7,14 @@ A Minecraft Modpack that adds new and cut functionality while still making the g
 - [Friends & Foes](https://modrinth.com/mod/friends-and-foes): Adds eliminated mobs back.
 - [Gimme bundles!](https://modrinth.com/mod/gimme-bundles): Adds bundles back to the game.
 - [Mythic Metals](https://modrinth.com/mod/mythicmetals): Adds new ores
+- [Promenade](https://modrinth.com/mod/promenade): More biomes!
 - [Purpeile](https://modrinth.com/mod/purpeille): Adds a rare postgame ore, found only in the End.
-- [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations): Adds various cool particles, including fireflies!
+- [Wild Firefly] Adds fireflies!
 ## Mods List (non-gameplay affecting mdos):
 - [Architectury](https://modrinth.com/mod/architectury-api)
 - [Cloth Config](https://modrinth.com/mod/cloth-config)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core): Memory Optimization
+- [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Indium](https://modrinth.com/mod/indium): Allows Sodium to be used with Fabric Rendering API
 - [Iris](https://modrinth.com/mod/iris): Shader support for Sodium
 - [Krypton](https://modrinth.com/mod/krypton): Optimizes Minecraft Networking
@@ -23,6 +25,7 @@ A Minecraft Modpack that adds new and cut functionality while still making the g
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options): Better Sodium Options Menu
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra): Extra Sodium Features
 - [Sodium](https://modrinth.com/mod/sodium): Renderer optimization
+- [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric)
 - [Mod Menu](https://modrinth.com/mod/modmenu): A menu for your mods
 
 ## Contact
